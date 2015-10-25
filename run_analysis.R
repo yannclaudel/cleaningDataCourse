@@ -42,4 +42,4 @@ measures<-x_all[,c(grep("std",cols,ignore.case=TRUE),grep("mean",cols,ignore.cas
 tidydata<-cbind(subject,activity,measures)
 #calculate mean by subject and activity
 tidydatamean<-aggregate(tidydata[5:90], by=c(tidydata[1:4]), FUN=mean, na.rm=TRUE)
-write.csv(tidydatamean,file="tidydatamean.cvs")
+write.table(tidydatamean,"tidydatamean.txt",row.name=FALSE)
