@@ -48,6 +48,7 @@ Only the measurements on the mean and standard deviation for each measurement ha
 4 SITTING
 5 STANDING
 6 LAYING
+
 #####  Measures 'features_info.txt': Shows information about the variables used on the feature vector.
 - tBAccstdX                     : num
 - tBAccstdY : num  
