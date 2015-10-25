@@ -50,91 +50,91 @@ Only the measurements on the mean and standard deviation for each measurement ha
 6 LAYING
 
 #####  Measures 'features_info.txt': Shows information about the variables used on the feature vector.
-- tBAccstdX                     : num
-- tBAccstdY : num  
-- tBAccstdZ                     : num  
-- tGravityAccstdX               : num  
-- tGravityAccstdY               : num  
-- tGravityAccstdZ               : num  
-- tBAccJerkstdX                 : num  
-- tBAccJerkstdY                 : num  
-- tBAccJerkstdZ                 : num  
-- tBGyrostdX                    : num  
-- tBGyrostdY                    : num  
-- tBGyrostdZ                    : num  
-- tBGyroJerkstdX                : num  
-- tBGyroJerkstdY                : num  
-- tBGyroJerkstdZ                : num  
-- tBAccMagstd                   : num  
-- tGravityAccMagstd             : num  
-- tBAccJerkMagstd               : num  
-- tBGyroMagstd                  : num  
-- tBGyroJerkMagstd              : num  
-- fBAccstdX                     : num  
-- fBAccstdY                     : num  
-- fBAccstdZ                     : num  
-- fBAccJerkstdX                 : num  
-- fBAccJerkstdY                 : num  
-- fBAccJerkstdZ                 : num  
-- fBGyrostdX                    : num  
-- fBGyrostdY                    : num  
-- fBGyrostdZ                    : num  
-- fBAccMagstd                   : num  
-- fBBodyAccJerkMagstd           : num  
-- fBBodyGyroMagstd              : num  
-- fBBodyGyroJerkMagstd          : num  
-- tBAccmeanX                    : num  
-- tBAccmeanY                    : num  
-- tBAccmeanZ                    : num  
-- tGravityAccmeanX              : num  
-- tGravityAccmeanY              : num  
-- tGravityAccmeanZ              : num  
-- tBAccJerkmeanX                : num  
-- tBAccJerkmeanY                : num  
-- tBAccJerkmeanZ                : num  
-- tBGyromeanX                   : num  
-- tBGyromeanY                   : num  
-- tBGyromeanZ                   : num  
-- tBGyroJerkmeanX               : num  
-- tBGyroJerkmeanY               : num  
-- tBGyroJerkmeanZ               : num  
-- tBAccMagmean                  : num  
-- tGravityAccMagmean            : num  
-- tBAccJerkMagmean              : num  
-- tBGyroMagmean                 : num  
-- tBGyroJerkMagmean             : num  
-- fBAccmeanX                    : num  
-- fBAccmeanY                    : num  
-- fBAccmeanZ                    : num  
-- fBAccmeanFreqX                : num  
-- fBAccmeanFreqY                : num  
-- fBAccmeanFreqZ                : num  
-- fBAccJerkmeanX                : num  
-- fBAccJerkmeanY                : num  
-- fBAccJerkmeanZ                : num  
-- fBAccJerkmeanFreqX            : num  
-- fBAccJerkmeanFreqY            : num  
-- fBAccJerkmeanFreqZ            : num  
-- fBGyromeanX                   : num  
-- fBGyromeanY                   : num  
-- fBGyromeanZ                   : num  
-- fBGyromeanFreqX               : num  
-- fBGyromeanFreqY               : num  
-- fBGyromeanFreqZ               : num  
-- fBAccMagmean                  : num  
-- fBAccMagmeanFreq              : num  
-- fBBodyAccJerkMagmean          : num  
-- fBBodyAccJerkMagmeanFreq      : num  
-- fBBodyGyroMagmean             : num  
-- fBBodyGyroMagmeanFreq         : num  
-- fBBodyGyroJerkMagmean         : num  
-- fBBodyGyroJerkMagmeanFreq     : num  
-- angletBAccMeangravity         : num  
-- angletBAccJerkMeangravityMean : num  
-- angletBGyroMeangravityMean    : num  
-- angletBGyroJerkMeangravityMean: num  
-- angleXgravityMean             : num  
-- angleYgravityMean             : num  
-- angleZgravityMean             : num 
+- tBAccstdX                     : num - time - mean(standard deviation) 
+- tBAccstdY                     : num   - time - mean(standard deviation)
+- tBAccstdZ                     : num   - time - mean(standard deviation)
+- tGravityAccstdX               : num   - time - mean(standard deviation)
+- tGravityAccstdY               : num   - time - mean(standard deviation)
+- tGravityAccstdZ               : num   - time - mean(standard deviation)
+- tBAccJerkstdX                 : num   - time - mean(standard deviation)
+- tBAccJerkstdY                 : num   - time - mean(standard deviation)
+- tBAccJerkstdZ                 : num   - time - mean(standard deviation)
+- tBGyrostdX                    : num   - time - mean(standard deviation)
+- tBGyrostdY                    : num   - time - mean(standard deviation)
+- tBGyrostdZ                    : num   - time - mean(standard deviation)
+- tBGyroJerkstdX                : num   - time - mean(standard deviation)
+- tBGyroJerkstdY                : num   - time - mean(standard deviation)
+- tBGyroJerkstdZ                : num   - time - mean(standard deviation)
+- tBAccMagstd                   : num   - time - mean(standard deviation)
+- tGravityAccMagstd             : num   - time - mean(standard deviation)
+- tBAccJerkMagstd               : num   - time - mean(standard deviation)
+- tBGyroMagstd                  : num   - time - mean(standard deviation)
+- tBGyroJerkMagstd              : num   - time - mean(standard deviation)
+- fBAccstdX                     : num   - frequency - mean(standard deviation)
+- fBAccstdY                     : num   - frequency - mean(standard deviation)
+- fBAccstdZ                     : num   - frequency - mean(standard deviation)
+- fBAccJerkstdX                 : num   - frequency - mean(standard deviation)
+- fBAccJerkstdY                 : num   - frequency - mean(standard deviation)
+- fBAccJerkstdZ                 : num   - frequency - mean(standard deviation)
+- fBGyrostdX                    : num   - frequency - mean(standard deviation)
+- fBGyrostdY                    : num   - frequency - mean(standard deviation)
+- fBGyrostdZ                    : num   - frequency - mean(standard deviation)
+- fBAccMagstd                   : num   - frequency - mean(standard deviation)
+- fBBodyAccJerkMagstd           : num   - frequency - mean(standard deviation)
+- fBBodyGyroMagstd              : num   - frequency - mean(standard deviation)
+- fBBodyGyroJerkMagstd          : num   - frequency - mean(standard deviation)
+- tBAccmeanX                    : num   - frequency - mean(standard deviation)
+- tBAccmeanY                    : num   - frequency - mean(standard deviation)
+- tBAccmeanZ                    : num   - frequency - mean(standard deviation)
+- tGravityAccmeanX              : num   - time - mean(mean)
+- tGravityAccmeanY              : num   - time - mean(mean)
+- tGravityAccmeanZ              : num   - time - mean(mean)
+- tBAccJerkmeanX                : num   - time - mean(mean)
+- tBAccJerkmeanY                : num   - time - mean(mean)
+- tBAccJerkmeanZ                : num   - time - mean(mean)
+- tBGyromeanX                   : num   - time - mean(mean)
+- tBGyromeanY                   : num   - time - mean(mean)
+- tBGyromeanZ                   : num   - time - mean(mean)
+- tBGyroJerkmeanX               : num   - time - mean(mean)
+- tBGyroJerkmeanY               : num   - time - mean(mean)
+- tBGyroJerkmeanZ               : num   - time - mean(mean)
+- tBAccMagmean                  : num   - time - mean(mean)
+- tGravityAccMagmean            : num   - time - mean(mean)
+- tBAccJerkMagmean              : num   - time - mean(mean)
+- tBGyroMagmean                 : num   - time - mean(mean)
+- tBGyroJerkMagmean             : num   - time - mean(mean)
+- fBAccmeanX                    : num   - frequency - mean(mean)
+- fBAccmeanY                    : num   - frequency - mean(mean)
+- fBAccmeanZ                    : num   - frequency - mean(mean)
+- fBAccmeanFreqX                : num   - frequency - mean(mean)
+- fBAccmeanFreqY                : num   - frequency - mean(mean)
+- fBAccmeanFreqZ                : num   - frequency - mean(mean)
+- fBAccJerkmeanX                : num   - frequency - mean(mean)
+- fBAccJerkmeanY                : num   - frequency - mean(mean)
+- fBAccJerkmeanZ                : num   - frequency - mean(mean)
+- fBAccJerkmeanFreqX            : num   - frequency - mean(mean)
+- fBAccJerkmeanFreqY            : num   - frequency - mean(mean)
+- fBAccJerkmeanFreqZ            : num   - frequency - mean(mean)
+- fBGyromeanX                   : num   - frequency - mean(mean)
+- fBGyromeanY                   : num   - frequency - mean(mean)
+- fBGyromeanZ                   : num   - frequency - mean(mean)
+- fBGyromeanFreqX               : num   - frequency - mean(mean)
+- fBGyromeanFreqY               : num   - frequency - mean(mean)
+- fBGyromeanFreqZ               : num   - frequency - mean(mean)
+- fBAccMagmean                  : num   - frequency - mean(mean)
+- fBAccMagmeanFreq              : num   - frequency - mean(mean)
+- fBBodyAccJerkMagmean          : num   - frequency - mean(mean)
+- fBBodyAccJerkMagmeanFreq      : num   - frequency - mean(mean)
+- fBBodyGyroMagmean             : num   - frequency - mean(mean)
+- fBBodyGyroMagmeanFreq         : num   - frequency - mean(mean)
+- fBBodyGyroJerkMagmean         : num   - frequency - mean(mean)
+- fBBodyGyroJerkMagmeanFreq     : num   - frequency - mean(mean)
+- angletBAccMeangravity         : num   - angle - mean(mean)
+- angletBAccJerkMeangravityMean : num   - angle - mean(mean)
+- angletBGyroMeangravityMean    : num   - angle - mean(mean)
+- angletBGyroJerkMeangravityMean: num   - angle - mean(mean)
+- angleXgravityMean             : num   - angle - mean(mean)
+- angleYgravityMean             : num   - angle - mean(mean)
+- angleZgravityMean             : num   - angle - mean(mean)
 
 ##### EOF 
