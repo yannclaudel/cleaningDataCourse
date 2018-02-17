@@ -8,7 +8,7 @@ the script 'run_analisys' does the following.
 - Create a data set with the average of each variable for each activity and each subject.
 
 
-### How to run this script
+####### How to run this script
 1. All data are in rawdata directory
 2. run RGUI : set working directory to the root of the project
 3. stringr library is used in the script - Update R with stringr library if needed
